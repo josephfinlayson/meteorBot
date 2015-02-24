@@ -1,0 +1,22 @@
+#content{
+    height: 33em;
+    text-align: center;
+    margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.title {
+    margin-right: auto;
+    margin-left: auto;
+    width: 10em;
+}
+
+.price{
+        font-size: 5em
+}
+
+#word {
+font-weight: bolder;
+font-size:  1.5em;
+}
